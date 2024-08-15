@@ -1,0 +1,19 @@
+div#napis{
+    font-size: 40px;
+    font-family: fantasy;
+    font-style: italic ;
+    color: white;
+}
+
+div#napis2{
+    font-size: 30px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic ;
+    color: red
+}
+
+div#napis3{
+    font-size: 30px;
+    color: white;
+}
+
